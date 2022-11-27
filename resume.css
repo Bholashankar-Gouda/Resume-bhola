@@ -1,0 +1,54 @@
+.mydiv{
+    height:100%;
+    width: 70%;
+    background: #6E3CBC;
+    float: right;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.small{
+    height:100%;
+    width: 30%;
+    background: #7267CB;
+    float: left;
+}
+
+.img{
+ margin-left: 65px;
+ margin-top: 30px;
+ width: 250px;
+ height: 300px;
+ border-radius: 60%;
+}
+
+.font{
+    color: #fff;
+    margin-left: 60px;
+    margin-top: 40px;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Cairo', sans-serif;
+    line-height: 10px;
+}
+
+.social
+{
+line-height: 30px;
+    color: #fff;   
+}
+
+.fa{
+  padding:20px;
+}
+
+.more{
+    font-family: 'Anton', sans-serif;
+font-family: 'Cairo', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Open Sans', sans-serif;
+line-height: 20px;
+}
+
+.margin{
+    margin-left: 40px;
+}
